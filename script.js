@@ -38,7 +38,7 @@ function solveIt(grid) {
     return true;
 }
 
-let sudoku =[[1, 5, 0, 0, 4, 2, 0, 0, 6], 
+/*let sudoku =[[1, 5, 0, 0, 4, 2, 0, 0, 6], 
             [2, 7, 4, 5, 6, 0, 0, 1, 0], 
             [0, 0, 6, 0, 0, 7, 4, 0, 2], 
             [0, 1, 0, 0, 0, 0, 0, 4, 0], 
@@ -50,7 +50,7 @@ let sudoku =[[1, 5, 0, 0, 4, 2, 0, 0, 6],
 
 //console.log(is_possible(sudoku, 0, 2, 9));
 solveIt(sudoku);
-console.log(sudoku);
+console.log(sudoku);*/
 
 
 
