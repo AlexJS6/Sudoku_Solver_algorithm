@@ -7,11 +7,12 @@
 	- Github page
 ## My Project
 This is a project inspired by a video and from my love for sudokus. I thought it would be fun to solve a sudoku in another way than usually.
-The instructions can be seen when opening my site here: 
+I solved it by using backtracking and recursiveness.  
+The instructions can be seen when opening my site here: https://alexjs6.github.io/Sudoku_Solver_algorithm/.
 
 ## My brain on the white board
 
-![Ideas](./public/images/sudoku_paint.jpg)
+![Ideas](/public/images/sudoku_paint.png)
 
 ### I Hope you enjoy it!
 
