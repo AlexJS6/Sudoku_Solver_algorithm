@@ -11,7 +11,7 @@ The instructions can be seen when opening my site here: https://alexjs6.github.i
 
 ## My brain on the white board
 
-![Ideas](/public/images/sudoku_paint.jpg)
+![Ideas](/public/images/sudoku_paint.png)
 
 ### I Hope you enjoy it!
 
